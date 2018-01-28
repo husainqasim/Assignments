@@ -65,7 +65,7 @@ h1 {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
-  padding:15px;
+  padding:10%;
   padding-top: 50px;
 
 
@@ -183,7 +183,7 @@ h1 {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
-  padding:15px;
+  padding:5%;
   padding-top: 50px;
  }
 
@@ -250,7 +250,7 @@ h1 {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
-  padding:15px;
+  padding:10%;
   padding-top: 50px;
  }
 
@@ -301,9 +301,6 @@ h1 {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
-  padding:15px;
+  padding:10%;
   padding-top: 50px;
-
-
-
- }
+}
